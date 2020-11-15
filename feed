@@ -1,6 +1,5 @@
 {
-   "published_posts":{
-      "data":[
+   "published_posts":[
          {
             "created_time":"2018-12-15T15:01:17+0000",
             "message":"FREMANTLE\n10.40pm\nRBT on Fairbair St in Fremantle near the oval.",
@@ -128,4 +127,4 @@
          }
       ]
    }
-}
+
